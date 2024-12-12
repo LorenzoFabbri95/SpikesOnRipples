@@ -1,0 +1,2 @@
+# Spikes-on-Ripples-are-Better-Interictal-Biomarkers-of-Epilepsy-than-Spikes-or-Ripples
+ This repository contains code and sample data for the paper "Spikes on Ripples are Better Interictal Biomarkers of Epilepsy than Spikes or Ripples." The study evaluates interictal biomarkers, their temporal relationships, and their ability to predict outcomes and delineate the epileptogenic zone in drug-resistant epilepsy.
